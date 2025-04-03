@@ -14,3 +14,6 @@ This program calculates permutation coefficients using three methods: recursion,
 
 ## Minimum-Cost Path in a Grid
 This program finds the path with the lowest cost in an M×N grid using bottom-up DP. It generates a random grid, computes costs, and reconstructs the optimal path.
+
+# Provided Files
+You are provided with the individual files for assessment, as well as zipped versions that group them as intended, allowing you to test them easily on your system.
